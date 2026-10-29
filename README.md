@@ -4,7 +4,7 @@ Fluos Connect runs your own Claude Code or Codex for [Fluos](https://www.fluos.i
 
 ## Download
 
-Get the latest version from the [Releases](https://github.com/fluos-io/fluos-connect/releases/latest) page, or from the setup wizard in Fluos (composer → agent picker → "Use your own agent").
+Get the latest version from the [Releases](https://github.com/fluos-io/fluos-connect/releases/latest) page, or from Fluos itself: pick Claude Code or Codex in the chat composer and choose "Set up on your computer".
 
 - **macOS** 12 or later, Apple silicon and Intel. Signed and notarized by Apple.
 - **Windows**: coming soon.
@@ -15,4 +15,4 @@ The app updates itself.
 
 This repository only hosts the signed installers and the update manifest (`latest.json`). The source code is not published here.
 
-Questions or problems: hello@fluos.io
+Questions or problems: ask@fluos.io
